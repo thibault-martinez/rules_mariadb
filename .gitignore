@@ -50,3 +50,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Bazel
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-rules_mariadb
+bazel-testlogs
